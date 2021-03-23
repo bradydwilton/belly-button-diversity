@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to bottom right, whitesmoke, skyblue);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-image: url("./images/microscope.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgba(0, 0, 139, 0.678);
+    border-color: black;
+    border-width: 100px;
+}
